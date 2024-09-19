@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá!
 
-<!--
-**ViniMelloeMuller/viniMelloeMuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia Química na FEQ-UNICAMP. Desenvolvo projetos relacionados a controle de processos e inteligência artificial aplicados a processos experimentais. Além disso, atualmente sou estagiário de IA na iSystems S.A, onde desenvolvo e pesquiso novas soluções para produtos SAAS.
 
-Here are some ideas to get you started:
+## Uso no Dia-a-Dia
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50 height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=50 height=50/>
+          
+          
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estou Aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50 height=50/>
+          
+
+## Gostaria de Aprender
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width=50 height=50/>
+          
+
+## Contato
+<div>
+<a href = "mailto:viniciusmellolol@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
