@@ -1,6 +1,6 @@
 ## Olá!
 
-Estudante de Engenharia Química na FEQ-UNICAMP. Desenvolvo projetos relacionados a controle de processos e inteligência artificial aplicados a processos experimentais. Além disso, atualmente sou estagiário de IA na iSystems S.A, onde desenvolvo e pesquiso novas soluções para produtos SAAS.
+Estudante de Engenharia Química na FEQ-UNICAMP. Desenvolvo projetos relacionados a controle de processos e inteligência artificial aplicados a processos experimentais. Além disso, atualmente sou estagiário de IA na iSystems S.A, onde desenvolvo e pesquiso novas soluções baseadas em inteligência artificial para produtos SAAS.
 
 ## Uso no Dia-a-Dia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50 height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=50 height=50/>
